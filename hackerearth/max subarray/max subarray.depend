@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460524697 source:/home/feroz/Documents/CP/hackerearth/max subarray/main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
